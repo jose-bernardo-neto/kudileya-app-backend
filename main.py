@@ -29,6 +29,9 @@ templates = Jinja2Templates(directory="templates")
 class Pergunta(BaseModel):
     pergunta: str
 
+@app.get("/keep-alive")
+async def keep_alive():
+    return {"status": "alive"}
 
 @app.get("/faqs")
 async def get_faqs():
