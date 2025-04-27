@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kudileya - Conhecimento Jurídico Descomplicado</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://kit.fontawesome.com/your_own_kit_id.js" crossorigin="anonymous"></script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+  <style>
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Poppins', sans-serif; }
+    .logo-font { font-family: 'Orbitron', sans-serif; }
+
+    .bg-slide {
+      transition: transform 1s ease, opacity 1s ease;
+      transform: translateX(100%);
+      opacity: 0;
+    }
+    .bg-show {
+      transform: translateX(0);
+      opacity: 1;
+    }
+
+    .fade {
+      animation: fadeEffect 1s ease;
+    }
+    @keyframes fadeEffect {
+      from {opacity: 0;}
+      to {opacity: 1;}
+    }
+  </style>
+</head>
+
+<body class="bg-gradient-to-b from-[#281a0e] to-[#3e2a1a] text-white">
+
+  <!-- Navbar -->
+  <header class="bg-black bg-opacity-50 p-4 flex justify-between items-center">
+    <h1 class="text-2xl font-bold logo-font">Kudileya</h1>
+    <nav class="space-x-4">
+      <button onclick="navigate('home')" class="hover:underline">Home</button>
+      <button onclick="navigate('sobre')" class="hover:underline">Sobre</button>
+      <button onclick="navigate('equipe')" class="hover:underline">Equipe</button>
+    </nav>
+    <a href="kudileya.txt" download="Kudileya APK v0.1" class="bg-yellow-400 text-black px-4 py-2 rounded-full ml-4 font-bold hover:scale-105 transition">Baixar App</a>
+  </header>
+
+  <!-- Carousel Home -->
+  <section id="home" class="h-screen flex flex-col justify-center items-center text-center relative overflow-hidden">
+    <div class="absolute inset-0 bg-cover bg-center bg-slide" id="carousel-bg"></div>
+    <div class="absolute inset-0 bg-black opacity-50"></div>
+    <div class="z-10 p-4">
+      <h2 id="carousel-title" class="text-4xl font-bold mb-4 drop-shadow-lg">Leis nunca foram tão fáceis de entender.</h2>
+      <p id="carousel-text" class="text-lg mb-6">Acesso fácil ao conhecimento jurídico Angolano, para todos.</p>
+      <a href="kudileya.txt" download="Kudileya APK v0.1" class="bg-yellow-400 text-black px-20 py-4 rounded-full font-bold shadow-md hover:scale-105 transition">Baixar App</a>
+    </div>
+  </section>
+
+  <!-- Sobre (com articles) -->
+  <section id="sobre" class="min-h-screen flex flex-col justify-center text-center relative overflow-hidden"> 
+    <div class="absolute inset-0 bg-cover bg-center fade" id="sobre-bg"></div>
+    <div class="absolute inset-0 bg-black opacity-60"></div>
+  
+    <div class="z-10 p-8 space-y-12">
+      <h2 class="text-3xl font-bold mb-6">Sobre</h2>
+  
+      <!-- Agrupei os articles numa div flex -->
+      <div class="flex flex-col md:flex-row items-center justify-center gap-12 max-w-6xl mx-auto">
+        
+        <article class="max-w-md">
+          <h3 class="text-3xl font-semibold mb-4">Nossa Visão</h3>
+          <p>O Kudileya existe para descomplicar o direito em Angola. A missão é democratizar o acesso ao conhecimento jurídico usando IA e tecnologia de ponta. Queremos que qualquer pessoa, de qualquer bairro, entenda seus direitos de forma simples e sem complicação.</p>
+        </article>
+  
+        <article class="max-w-md flex flex-col items-center">
+          <!-- <h3 class="text-2xl font-semibold mb-4">Veja o App em Ação</h3> -->
+          <img src="static/images/chat.png" alt="Screenshot do App Kudileya" class="rounded-lg shadow-lg w-full">
+          <a href="kudileya.txt" download="Kudileya APK v0.1" class="bg-yellow-400 text-black px-6 py-4 my-6 rounded-full font-bold shadow-md hover:scale-105 transition">Baixar Agora</a>
+        </article>
+  
+      </div>
+    </div>
+  </section>
+  
+
+  <!-- Conheça a Equipe -->
+  <section id="equipe" class="min-h-screen flex flex-col justify-center items-center text-center relative overflow-hidden">
+    <div class="absolute inset-0 bg-cover bg-center" id="contacto-bg"></div>
+    <div class="absolute inset-0 bg-black opacity-60"></div>
+    <div class="z-10 p-8">
+      <h2 class="text-3xl font-bold mb-6">Conheça a Equipe</h2>
+      <div class="flex flex-wrap justify-center gap-8">
+        
+        <div class="flex flex-col items-center">
+          <img src="static/images/man-7795548_1280.jpg" alt="José Neto" class="w-24 h-24 rounded-full mb-2 object-cover">
+          <p class="font-semibold">José Neto</p>
+          <a href="#" class="text-2xl text-blue-400 hover:text-blue-600 mt-1"><i class="fab fa-linkedin"></i></a>
+        </div>
+
+        <div class="flex flex-col items-center">
+          <img src="static/images/hands-1851218_1280.jpg" alt="Maria Silva" class="w-24 h-24 rounded-full mb-2 object-cover">
+          <p class="font-semibold">Maria Silva</p>
+          <a href="#" class="text-2xl text-blue-400 hover:text-blue-600 mt-1"><i class="fab fa-linkedin"></i></a>
+        </div>
+
+        <div class="flex flex-col items-center">
+          <img src="static/images/laptop.jpg" alt="João Pedro" class="w-24 h-24 rounded-full mb-2 object-cover">
+          <p class="font-semibold">João Pedro</p>
+          <a href="#" class="text-2xl text-blue-400 hover:text-blue-600 mt-1"><i class="fab fa-linkedin"></i></a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-black bg-opacity-50 text-center p-4 text-sm">
+    &copy; 2025 Kudileya Inc. Desenvolvido com ❤️ por José Bernardo Neto
+  </footer>
+
+  <!-- Scripts -->
+  <script>
+    function navigate(sectionId) {
+      document.getElementById(sectionId).scrollIntoView({ behavior: 'smooth' });
+    }
+
+    const imagensCarousel = [
+      { img: 'url(/static/images/hammer.jpg)', title: 'Justiça ao teu alcance', text: 'Explicamos o que a lei realmente diz.' },
+      { img: 'url(/static/images/laptop.jpg)', title: 'Tecnologia e Direito', text: 'Inovação para o cidadão Angolano.' },
+      { img: 'url(/static/images/justice.jpg)', title: 'Seu Direito, Sua Voz', text: 'Compreenda seus direitos de forma simples.' },
+    ];
+    const imagensSobre = [
+      'url(images/sobre1.jpg)',
+      'url(images/sobre2.jpg)',
+      'url(images/sobre3.jpg)'
+    ];
+    const imagemContacto = 'url(images/contacto.jpg)';
+
+    const bg = document.getElementById('carousel-bg');
+    const title = document.getElementById('carousel-title');
+    const text = document.getElementById('carousel-text');
+    const sobreBg = document.getElementById('sobre-bg');
+
+    let currentCarousel = 0;
+    let currentSobre = 0;
+
+    function updateCarousel() {
+      bg.classList.remove('bg-show');
+      setTimeout(() => {
+        bg.style.backgroundImage = imagensCarousel[currentCarousel].img;
+        title.innerText = imagensCarousel[currentCarousel].title;
+        text.innerText = imagensCarousel[currentCarousel].text;
+        bg.classList.add('bg-show');
+      }, 500);
+    }
+
+    function updateSobre() {
+      sobreBg.classList.remove('fade');
+      setTimeout(() => {
+        sobreBg.style.backgroundImage = imagensSobre[currentSobre];
+        sobreBg.classList.add('fade');
+      }, 300);
+    }
+
+    bg.style.backgroundImage = imagensCarousel[0].img;
+    title.innerText = imagensCarousel[0].title;
+    text.innerText = imagensCarousel[0].text;
+    bg.classList.add('bg-show');
+
+    sobreBg.style.backgroundImage = imagensSobre[0];
+    sobreBg.classList.add('fade');
+    document.getElementById('contacto-bg').style.backgroundImage = imagemContacto;
+
+    setInterval(() => {
+      currentCarousel = (currentCarousel + 1) % imagensCarousel.length;
+      updateCarousel();
+    }, 5000);
+
+    setInterval(() => {
+      currentSobre = (currentSobre + 1) % imagensSobre.length;
+      updateSobre();
+    }, 7000);
+
+  </script>
+
+</body>
+</html>

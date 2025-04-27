@@ -1,0 +1,245 @@
+{
+    "temas": [
+      {
+        "tema": "Direitos Trabalhistas",
+        "questoes": [
+          {
+            "pergunta": "Quais são meus direitos em caso de demissão sem justa causa?",
+            "resposta": "Em caso de demissão sem justa causa, você tem direito ao pagamento das verbas rescisórias, incluindo o saldo de salário, férias proporcionais, 13º salário proporcional, aviso prévio, entre outros.",
+            "resposta_rapida": "Direitos em caso de demissão sem justa causa: verbas rescisórias."
+          },
+          {
+            "pergunta": "O que é férias proporcionais?",
+            "resposta": "Férias proporcionais são o direito de um trabalhador que não completou um ano de trabalho, mas que tem direito ao período de descanso de acordo com o tempo trabalhado.",
+            "resposta_rapida": "Férias proporcionais: direito de descanso mesmo sem completar um ano de trabalho."
+          },
+          {
+            "pergunta": "Como faço para pedir um atestado médico no trabalho?",
+            "resposta": "Para pedir um atestado médico, você deve apresentar o documento médico para o seu empregador, que deverá respeitar o seu direito ao afastamento temporário por questões de saúde.",
+            "resposta_rapida": "Atestado médico: apresente o documento ao seu empregador."
+          },
+          {
+            "pergunta": "O que acontece se o empregador não pagar o salário em dia?",
+            "resposta": "Se o empregador não pagar o salário dentro do prazo acordado, o trabalhador tem o direito de buscar a reparação legal através da Justiça do Trabalho.",
+            "resposta_rapida": "Não pagamento de salário: procure a Justiça do Trabalho."
+          },
+          {
+            "pergunta": "Qual é a jornada de trabalho máxima permitida?",
+            "resposta": "A jornada de trabalho não pode ultrapassar 8 horas diárias ou 44 horas semanais, salvo exceções previstas em acordos ou convenções coletivas.",
+            "resposta_rapida": "Jornada de trabalho: máximo 8 horas diárias ou 44 semanais."
+          }
+        ]
+      },
+      {
+        "tema": "Direitos do Consumidor",
+        "questoes": [
+          {
+            "pergunta": "Quais são os meus direitos em caso de compra de um produto com defeito?",
+            "resposta": "Você tem o direito de exigir a troca do produto, o conserto sem custos ou o reembolso, caso o produto tenha defeito dentro do prazo de garantia.",
+            "resposta_rapida": "Produto com defeito: troca, conserto ou reembolso."
+          },
+          {
+            "pergunta": "O que fazer se a loja não aceitar devolver o produto dentro do prazo?",
+            "resposta": "Se a loja não aceitar devolver o produto dentro do prazo, você pode recorrer ao Procon ou ao Juizado Especial para garantir seus direitos.",
+            "resposta_rapida": "Produto não aceito para devolução: procure o Procon."
+          },
+          {
+            "pergunta": "Como posso cancelar um contrato de adesão?",
+            "resposta": "Você tem o direito de cancelar um contrato de adesão em até 7 dias após a assinatura, sem precisar justificar, caso o contrato tenha sido feito fora do estabelecimento comercial.",
+            "resposta_rapida": "Cancelamento de contrato: até 7 dias para desistir."
+          },
+          {
+            "pergunta": "O que é um prazo de arrependimento?",
+            "resposta": "O prazo de arrependimento é o direito que o consumidor tem de desistir de uma compra feita fora do estabelecimento comercial em até 7 dias, sem justificativa.",
+            "resposta_rapida": "Prazo de arrependimento: 7 dias após compra fora da loja."
+          },
+          {
+            "pergunta": "Quais são os meus direitos em caso de cobrança indevida?",
+            "resposta": "Se você for cobrado indevidamente, tem o direito de exigir o estorno do valor pago, além de poder solicitar danos morais se houver prejuízo adicional.",
+            "resposta_rapida": "Cobrança indevida: estorno e danos morais."
+          }
+        ]
+      },
+      {
+        "tema": "Direitos de Família",
+        "questoes": [
+          {
+            "pergunta": "O que é a guarda compartilhada?",
+            "resposta": "A guarda compartilhada é quando ambos os pais têm os direitos e deveres iguais em relação ao cuidado e educação dos filhos, mesmo que não vivam juntos.",
+            "resposta_rapida": "Guarda compartilhada: direitos e deveres iguais entre os pais."
+          },
+          {
+            "pergunta": "O que é a pensão alimentícia?",
+            "resposta": "Pensão alimentícia é o valor que um dos pais paga ao outro para ajudar a manter as despesas do filho, como alimentação, educação e saúde.",
+            "resposta_rapida": "Pensão alimentícia: valor para manutenção dos filhos."
+          },
+          {
+            "pergunta": "Quais são os direitos dos avós em relação aos netos?",
+            "resposta": "Os avós têm direito de convivência com seus netos, podendo até mesmo pedir a guarda em casos específicos, como se os pais não puderem cuidar da criança.",
+            "resposta_rapida": "Direitos dos avós: convivência e possível guarda."
+          },
+          {
+            "pergunta": "Como é feito o processo de adoção?",
+            "resposta": "O processo de adoção envolve a autorização judicial e a análise do perfil do adotante, além do processo de adaptação da criança ao novo lar.",
+            "resposta_rapida": "Adoção: autorização judicial e adaptação da criança."
+          },
+          {
+            "pergunta": "O que é a alienação parental?",
+            "resposta": "Alienação parental ocorre quando um dos pais tenta afastar a criança do outro, dificultando a convivência familiar, o que é prejudicial ao desenvolvimento da criança.",
+            "resposta_rapida": "Alienação parental: afastamento forçado entre pais e filhos."
+          }
+        ]
+      },
+      {
+        "tema": "Direitos de Propriedade",
+        "questoes": [
+          {
+            "pergunta": "Como posso registrar a propriedade de um imóvel?",
+            "resposta": "Para registrar a propriedade de um imóvel, você deve levar o contrato de compra e venda ao cartório de registro de imóveis e fazer o registro legal da propriedade.",
+            "resposta_rapida": "Registro de imóvel: vá ao cartório com o contrato."
+          },
+          {
+            "pergunta": "O que é a escritura pública de imóvel?",
+            "resposta": "A escritura pública é o documento que formaliza a compra e venda de um imóvel. Ela deve ser assinada pelas partes e registrada em cartório.",
+            "resposta_rapida": "Escritura pública: formaliza a compra e venda do imóvel."
+          },
+          {
+            "pergunta": "Posso vender um imóvel sem escritura?",
+            "resposta": "Não, a escritura é essencial para formalizar a venda do imóvel e garantir que a transação seja legalizada.",
+            "resposta_rapida": "Não pode vender sem escritura: é ilegal."
+          },
+          {
+            "pergunta": "O que fazer em caso de disputa sobre a posse de um imóvel?",
+            "resposta": "Em caso de disputa de posse, você deve buscar o auxílio de um advogado e, se necessário, recorrer à justiça para resolver a situação.",
+            "resposta_rapida": "Disputa de posse: procure um advogado e a justiça."
+          },
+          {
+            "pergunta": "Como posso proteger meu imóvel contra invasões?",
+            "resposta": "Você pode proteger seu imóvel através de medidas de segurança, como cercas, portões e câmeras, além de registrar o imóvel corretamente e manter a posse comprovada.",
+            "resposta_rapida": "Proteção de imóvel: segurança física e registro legal."
+          }
+        ]
+      },
+      {
+        "tema": "Direitos Humanos",
+        "questoes": [
+          {
+            "pergunta": "O que são direitos humanos?",
+            "resposta": "Direitos humanos são os direitos e liberdades fundamentais que pertencem a todas as pessoas, independentemente de sua raça, religião ou nacionalidade.",
+            "resposta_rapida": "Direitos humanos: liberdades fundamentais para todos."
+          },
+          {
+            "pergunta": "Como posso denunciar uma violação dos direitos humanos?",
+            "resposta": "Você pode denunciar violações de direitos humanos por meio de organismos de defesa dos direitos humanos, como a Comissão Nacional dos Direitos Humanos, ou até mesmo pela Justiça.",
+            "resposta_rapida": "Denúncia de violação: procure organizações ou a Justiça."
+          },
+          {
+            "pergunta": "O que é a tortura e como é tratada no Brasil?",
+            "resposta": "A tortura é um ato cruel, desumano e degradante contra a integridade física ou psicológica de uma pessoa. Ela é proibida por lei e é passível de punição severa.",
+            "resposta_rapida": "Tortura: crime grave e proibido por lei."
+          },
+          {
+            "pergunta": "Como posso me proteger contra discriminação?",
+            "resposta": "Você pode se proteger contra discriminação através de denúncias, busca por apoio em ONGs e advogados, e conhecendo os seus direitos legais para combater atitudes discriminatórias.",
+            "resposta_rapida": "Proteção contra discriminação: denuncie e busque apoio."
+          },
+          {
+            "pergunta": "Quais são os direitos das minorias?",
+            "resposta": "As minorias têm direito à igualdade, ao respeito, à proteção contra discriminação e à participação plena em todas as esferas da sociedade.",
+            "resposta_rapida": "Direitos das minorias: igualdade e proteção contra discriminação."
+          }
+        ]
+      },
+      {
+        "tema": "Direitos Civis",
+        "questoes": [
+          {
+            "pergunta": "O que é o direito de propriedade?",
+            "resposta": "O direito de propriedade é o direito que uma pessoa tem de possuir, usar e dispor de seus bens de acordo com a sua vontade.",
+            "resposta_rapida": "Direito de propriedade: posse, uso e disposição do bem."
+          },
+          {
+            "pergunta": "O que é um testamento?",
+            "resposta": "O testamento é um documento legal no qual uma pessoa expressa a sua vontade sobre a distribuição de seus bens após sua morte.",
+            "resposta_rapida": "Testamento: distribuição de bens após a morte."
+          },
+          {
+            "pergunta": "O que é a usucapião?",
+            "resposta": "Usucapião é a aquisição da propriedade de um imóvel ou bem por meio da posse contínua e ininterrupta por um determinado período de tempo.",
+            "resposta_rapida": "Usucapião: aquisição por posse prolongada."
+          },
+          {
+            "pergunta": "Quais são as formas de aquisição de bens?",
+            "resposta": "Bens podem ser adquiridos de diversas formas, como compra, doação, herança ou usucapião.",
+            "resposta_rapida": "Aquisição de bens: compra, doação, herança e usucapião."
+          },
+          {
+            "pergunta": "O que é a escritura pública?",
+            "resposta": "A escritura pública é um documento formal feito em cartório que registra certos atos, como contratos de compra e venda de imóveis, entre outros.",
+            "resposta_rapida": "Escritura pública: registro formal em cartório."
+          }
+        ]
+      },
+      {
+        "tema": "Direito Penal",
+        "questoes": [
+          {
+            "pergunta": "O que é um crime?",
+            "resposta": "Crime é toda ação ou omissão que infringe a lei penal e é punível com sanção, como prisão ou multa.",
+            "resposta_rapida": "Crime: infração à lei penal passível de punição."
+          },
+          {
+            "pergunta": "O que são penas alternativas?",
+            "resposta": "Penas alternativas são penas aplicadas como substitutivas à prisão, como prestação de serviços à comunidade ou pagamento de multa.",
+            "resposta_rapida": "Penas alternativas: substituem a prisão por serviços ou multa."
+          },
+          {
+            "pergunta": "Qual é a diferença entre homicídio doloso e culposo?",
+            "resposta": "Homicídio doloso ocorre quando há intenção de matar, enquanto homicídio culposo ocorre sem intenção, geralmente por imprudência.",
+            "resposta_rapida": "Homicídio: doloso (intencional) vs. culposo (sem intenção)."
+          },
+          {
+            "pergunta": "O que é o princípio da presunção de inocência?",
+            "resposta": "A presunção de inocência é o princípio pelo qual qualquer acusado é considerado inocente até que se prove sua culpa.",
+            "resposta_rapida": "Presunção de inocência: acusado é inocente até prova em contrário."
+          },
+          {
+            "pergunta": "O que é a legítima defesa?",
+            "resposta": "Legítima defesa é o direito de reagir a uma agressão iminente para proteger a própria vida ou a de terceiros.",
+            "resposta_rapida": "Legítima defesa: reação para proteger a vida."
+          }
+        ]
+      },
+      {
+        "tema": "Direito Ambiental",
+        "questoes": [
+          {
+            "pergunta": "O que é direito ambiental?",
+            "resposta": "O direito ambiental é o ramo do direito que regula as ações humanas para proteger o meio ambiente e garantir o uso sustentável dos recursos naturais.",
+            "resposta_rapida": "Direito ambiental: proteção e uso sustentável do meio ambiente."
+          },
+          {
+            "pergunta": "O que é a reserva legal?",
+            "resposta": "Reserva legal é uma área de uma propriedade rural que deve ser mantida com vegetação nativa, visando à preservação do meio ambiente.",
+            "resposta_rapida": "Reserva legal: área preservada com vegetação nativa."
+          },
+          {
+            "pergunta": "O que são unidades de conservação?",
+            "resposta": "Unidades de conservação são áreas protegidas por lei para preservar a biodiversidade e os recursos naturais.",
+            "resposta_rapida": "Unidades de conservação: áreas protegidas por lei."
+          },
+          {
+            "pergunta": "Como posso denunciar crimes ambientais?",
+            "resposta": "Você pode denunciar crimes ambientais ao Ibama, Ministério Público ou órgãos estaduais de meio ambiente.",
+            "resposta_rapida": "Denúncia de crime ambiental: Ibama e Ministério Público."
+          },
+          {
+            "pergunta": "O que é o licenciamento ambiental?",
+            "resposta": "Licenciamento ambiental é o processo pelo qual uma atividade ou empreendimento é autorizado após análise dos impactos ambientais que pode causar.",
+            "resposta_rapida": "Licenciamento ambiental: autorização após análise de impactos."
+          }
+        ]
+      }
+    ]
+  }
+  
